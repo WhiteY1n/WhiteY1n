@@ -1,4 +1,5 @@
-Hey there!👋
+**Hey there!👋**
+
 I'm Vu — a developer based in Hanoi, Vietnam.
 
 I’m highly comfortable working in English and often take the lead in reading release notes, technical documentation, and sharing key updates with my team. I enjoy turning complex information into something clear and usable for others.
